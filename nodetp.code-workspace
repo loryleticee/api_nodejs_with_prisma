@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../node-vuejs"
+		},
+		{
+			"path": "../api"
+		},
+		{
+			"path": "../../sandbox/wsp_k"
+		}
+	],
+	"settings": {}
+}
